@@ -9,7 +9,11 @@
 
 ### Model size vs Accuracy
 - NestedNet: Learning Nested Sparse Structures in Deep Neural Networks [[Paper]](https://arxiv.org/pdf/1712.03781.pdf)
-	- Eunwoo Kim, Chanho Ahn, and Songhwai Oh
+	- Eunwoo Kim, Chanho Ahn, and Songhwai Oh, CVPR 2018.
+
+### Model Depth vs Accuracy
+- BranchyNet: Fast Inference via Early Exiting from Deep Neural Networks [[Paper]](https://arxiv.org/pdf/1709.01686.pdf)
+	- Surat Teerapittayanon, Bradley McDanel, H.T. Kung, ICPR 2016.
 
 - - -
 	
