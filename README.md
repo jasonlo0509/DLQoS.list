@@ -14,7 +14,8 @@
 - BranchyNet: Fast Inference via Early Exiting from Deep Neural Networks [[Paper]](https://arxiv.org/pdf/1709.01686.pdf)
 	- Surat Teerapittayanon, Bradley McDanel, H.T. Kung, ICPR 2016.
 
-### Residual Block Number vs Accuracy
+
+### Un-Categorized
 - Multi-level Residual Networks from Dynamical Systems View [[Paper]](https://arxiv.org/pdf/1710.10348.pdf)
 	- Bo Chang, Lili Meng, Eldad Haber, Frederick Tung, David Begert, ICLR 2018.
 
