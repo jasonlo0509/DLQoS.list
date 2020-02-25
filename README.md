@@ -11,6 +11,9 @@
 	- Eunwoo Kim, Chanho Ahn, and Songhwai Oh, CVPR 2018.
 
 ### Model Depth vs Accuracy
+- MSDNet: Multi-Scale Dense Networks for Resource Efficient Image Classification [[Paper]](https://arxiv.org/pdf/1703.09844.pdf)
+	- Gao Huang, Danlu Chen, Tianhong Li, Felix Wu, Laurens van der Maaten, Kilian Weinberger, ICLR 2018.
+
 - BranchyNet: Fast Inference via Early Exiting from Deep Neural Networks [[Paper]](https://arxiv.org/pdf/1709.01686.pdf)
 	- Surat Teerapittayanon, Bradley McDanel, H.T. Kung, ICPR 2016.
 
