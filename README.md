@@ -1,6 +1,6 @@
 # DLQoS.list
 
-## Flexible between trade-off points
+## Flexible between trade-off points [(Dynamic Computation)](https://www.youtube.com/watch?v=f0rOMyZSZi4&list=PLJV_el3uVTsOK_ZK5L0Iv_EQoL1JefRL4&index=57)
 
 ### Power vs Accuracy
 - DrowsyNet: Convolutional neural networks with runtime power-accuracy tunability using inference-stage dropout [[Paper]](https://ieeexplore.ieee.org/document/8373242)
